@@ -50,3 +50,6 @@ if st.button("Analyze"):
         image = Image.open(uploaded_image)
         st.image(image)
         st.warning(analyze_image(image))
+
+
+print("my name is ayush rawat")
