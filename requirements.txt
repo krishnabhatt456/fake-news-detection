@@ -1,6 +1,11 @@
 streamlit
 transformers
 torch
+torchvision
 pillow
 opencv-python-headless
 numpy
+opencv-python
+scikit-learn
+sentencepiece
+accelerate
